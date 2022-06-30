@@ -1,0 +1,4 @@
+Host ubuntu
+  Hostname 52.78.182.214
+  User root
+  IdentityFile ~/.ssh/myaws_key.pem
